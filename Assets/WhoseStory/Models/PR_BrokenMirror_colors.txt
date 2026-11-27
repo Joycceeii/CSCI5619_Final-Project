@@ -1,0 +1,6 @@
+PropMirrorBack 28 24 22
+PropMirrorGem 140 20 40
+PropMirrorGold 190 146 62
+PropMirrorGoldDark 120 86 34
+PropMirrorPale 214 226 230
+PropMirrorShard 176 190 196

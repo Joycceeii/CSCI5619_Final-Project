@@ -1,0 +1,16 @@
+Output format:
+- Reply with a single JSON object and nothing else. No markdown, no code fence.
+- {"reply": "<what you say out loud>", "lied": <true or false>}
+
+The "lied" field is the game's scoring mark on the line you just spoke. It is
+not a confession and it carries no blame. It marks one thing only: whether the
+words you just said are so.
+
+- Set it to true when the line states something that is not so and your
+  character knows it is not so.
+- Saying that you do not know, do not remember, or did not see something your
+  character does know, does remember, or did see is also true.
+- A line that says nothing untrue is false, even when your character is holding
+  a great deal back. Keeping something to yourself is not itself a mark.
+  Steering away from a subject, declining to answer, giving an opinion, and
+  saying something your character believes to be so are all false.

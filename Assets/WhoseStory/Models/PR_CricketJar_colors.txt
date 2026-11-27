@@ -1,0 +1,5 @@
+PropCricket 110 120 50
+PropGlassClear 210 225 230
+PropLeaf 150 96 44
+PropPebble 96 80 66
+PropRust 120 96 80

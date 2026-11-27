@@ -1,0 +1,6 @@
+PropBrass 176 140 68
+PropGold 198 156 70
+PropIron 44 40 40
+PropRecord 20 18 18
+PropTie 180 30 34
+PropWoodDark 86 48 30

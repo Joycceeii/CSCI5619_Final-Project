@@ -1,0 +1,6 @@
+PropBrass 176 140 68
+PropLine 26 18 16
+PropPurpleInset 78 42 98
+PropTassel 150 100 60
+PropVelvet 128 22 38
+PropWoodDark 86 48 30

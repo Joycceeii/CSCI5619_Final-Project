@@ -1,0 +1,7 @@
+PropBird 170 90 40
+PropBrass 176 140 68
+PropDial 230 214 176
+PropLine 26 18 16
+PropRust 120 96 80
+PropWood 122 70 42
+PropWoodDark 86 48 30

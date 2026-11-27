@@ -1,0 +1,4 @@
+PropBrass 176 140 68
+PropMirrorPane 200 214 218
+PropWood 122 70 42
+PropWoodDark 86 48 30

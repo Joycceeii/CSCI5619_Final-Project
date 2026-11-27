@@ -1,0 +1,4 @@
+PropBrass 176 140 68
+PropCream 226 208 170
+PropRibbon 150 30 40
+PropWoodDark 86 48 30

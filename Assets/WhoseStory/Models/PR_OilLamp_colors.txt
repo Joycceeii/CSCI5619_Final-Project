@@ -1,0 +1,5 @@
+PropBrass 176 140 68
+PropFlame 255 196 80
+PropGlassClear 210 225 230
+PropLine 26 18 16
+PropWood 122 70 42
