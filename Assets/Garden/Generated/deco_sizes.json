@@ -1,0 +1,86 @@
+{
+ "window_ice": {
+  "width": 1.357,
+  "height": 1.35
+ },
+ "bonsai_blue": {
+  "width": 0.9,
+  "height": 0.95
+ },
+ "window_flower": {
+  "width": 1.37,
+  "height": 1.35
+ },
+ "bamboo": {
+  "width": 2.864,
+  "height": 3.4
+ },
+ "stone_lantern_a": {
+  "width": 0.754,
+  "height": 1.55
+ },
+ "plaque": {
+  "width": 2.587,
+  "height": 0.95
+ },
+ "couplet_left": {
+  "width": 0.549,
+  "height": 2.3
+ },
+ "couplet_right": {
+  "width": 0.546,
+  "height": 2.3
+ },
+ "table_set": {
+  "width": 1.657,
+  "height": 0.95
+ },
+ "incense_burner": {
+  "width": 0.959,
+  "height": 0.95
+ },
+ "stone_lantern_c": {
+  "width": 0.819,
+  "height": 1.55
+ },
+ "water_vat": {
+  "width": 1.019,
+  "height": 0.95
+ },
+ "bonsai_pair_top": {
+  "width": 1.568,
+  "height": 1.0
+ },
+ "lantern_red": {
+  "width": 0.355,
+  "height": 0.75
+ },
+ "lantern_red2": {
+  "width": 0.346,
+  "height": 0.75
+ },
+ "shelf": {
+  "width": 1.646,
+  "height": 1.9
+ },
+ "bonsai_celadon": {
+  "width": 1.111,
+  "height": 1.35
+ },
+ "stone_lion": {
+  "width": 0.92,
+  "height": 1.45
+ },
+ "bonsai_pair_low": {
+  "width": 1.454,
+  "height": 1.05
+ },
+ "wall_d": {
+  "width": 7.7,
+  "height": 3.3
+ },
+ "gate_core": {
+  "width": 3.029,
+  "height": 2.549
+ }
+}
