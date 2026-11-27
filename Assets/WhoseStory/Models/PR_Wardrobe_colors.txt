@@ -1,0 +1,5 @@
+PropBrass 176 140 68
+PropTie 180 30 34
+PropWardrobe 130 34 44
+PropWardrobeIn 70 100 64
+PropWoodLight 168 116 70

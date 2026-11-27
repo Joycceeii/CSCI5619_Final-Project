@@ -1,0 +1,5 @@
+PropBrass 176 140 68
+PropTrunkBrown 110 66 40
+PropTrunkGreen 80 100 60
+PropTrunkRed 120 36 40
+PropWoodDark 86 48 30

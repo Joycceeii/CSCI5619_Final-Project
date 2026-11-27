@@ -1,0 +1,4 @@
+PropTrunkBrown 110 66 40
+PropWood 122 70 42
+PropWoodDark 86 48 30
+PropWoodLight 168 116 70

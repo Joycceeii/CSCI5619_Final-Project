@@ -1,0 +1,6 @@
+PropBrass 176 140 68
+PropShaving 222 186 130
+PropSteel 170 176 182
+PropWood 122 70 42
+PropWoodDark 86 48 30
+PropWoodLight 168 116 70

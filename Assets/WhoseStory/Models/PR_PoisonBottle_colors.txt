@@ -1,0 +1,6 @@
+PropBone 214 200 170
+PropBrass 176 140 68
+PropCork 150 104 62
+PropLabel 226 206 160
+PropLine 26 18 16
+PropPurple 88 40 120

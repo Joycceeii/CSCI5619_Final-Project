@@ -1,0 +1,6 @@
+PropTassel 196 150 70
+PropVelvet 128 22 38
+PropVelvetDark 84 14 26
+PropWood 122 70 42
+PropWoodDark 86 48 30
+PropWoodLight 168 116 70

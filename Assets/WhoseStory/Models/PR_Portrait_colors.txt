@@ -1,0 +1,6 @@
+PropCanvasDark 52 56 50
+PropGold 198 156 70
+PropLine 26 18 16
+PropPaleHair 176 174 164
+PropPaleSkin 206 204 190
+PropWax 238 228 200

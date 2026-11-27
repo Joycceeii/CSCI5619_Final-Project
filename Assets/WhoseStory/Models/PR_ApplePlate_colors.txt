@@ -1,0 +1,6 @@
+PropApple 176 30 30
+PropAppleFlesh 240 228 180
+PropGold 198 156 70
+PropPlate 232 224 204
+PropStem 90 60 30
+PropWardrobeIn 70 100 64

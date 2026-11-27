@@ -1,0 +1,5 @@
+PropEmber 240 120 40
+PropIron 44 40 40
+PropSoot 40 34 30
+PropStone 214 200 170
+PropWoodDark 86 48 30

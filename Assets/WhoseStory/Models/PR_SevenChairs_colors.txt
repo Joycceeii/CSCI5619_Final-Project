@@ -1,0 +1,3 @@
+PropBone 214 200 170
+PropLine 26 18 16
+PropWood 122 70 42

@@ -1,0 +1,53 @@
+﻿# ---- secrets: API keys, never commit
+Assets/StreamingAssets/WhoseStory/openai_key.txt
+Assets/StreamingAssets/WhoseStory/openai_key.txt.meta
+Assets/StreamingAssets/WhoseStory/elevenlabs_key.txt
+Assets/StreamingAssets/WhoseStory/elevenlabs_key.txt.meta
+Assets/StreamingAssets/WhoseStory/minimax_key.txt
+Assets/StreamingAssets/WhoseStory/minimax_key.txt.meta
+*key*.txt
+*key*.txt.meta
+.env
+*.env
+
+# ---- Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+crashlytics-buildsettings.properties
+*.apk
+*.aab
+*.unitypackage
+
+# ---- IDE / tooling
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+.mcp.json
+.claude/
+
+# ---- other version control (Unity Version Control / Plastic stays as it is)
+.plastic/
+ignore.conf
+
+# ---- local tools, backups and source art not needed to open the project
+/_tools/
+/Tools/
+/ArtSource/

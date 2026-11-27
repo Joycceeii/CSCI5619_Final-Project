@@ -1,0 +1,7 @@
+PropBone 214 200 170
+PropBrass 176 140 68
+PropLine 26 18 16
+PropSteel 170 176 182
+PropVelvetDark 84 14 26
+PropWood 122 70 42
+PropWoodDark 86 48 30

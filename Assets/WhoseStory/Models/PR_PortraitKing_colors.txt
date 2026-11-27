@@ -1,0 +1,7 @@
+PropBlush 226 130 110
+PropCanvasGreen 56 74 60
+PropGold 198 156 70
+PropLine 26 18 16
+PropPeach 240 206 176
+PropRobeRed 170 34 40
+PropWax 238 228 200

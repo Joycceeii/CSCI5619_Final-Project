@@ -1,0 +1,6 @@
+PropHorse 226 214 190
+PropHorseSpot 150 92 54
+PropLeather 110 60 36
+PropLine 26 18 16
+PropSoldierBlack 30 28 32
+PropWoodDark 86 48 30

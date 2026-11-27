@@ -1,0 +1,6 @@
+PropBrass 176 140 68
+PropDialFace 232 220 188
+PropLine 26 18 16
+PropSoot 40 34 30
+PropWood 122 70 42
+PropWoodDark 86 48 30
